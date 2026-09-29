@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="My Business Website">
+        <meta name="author" content="Gabriel">
+        <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Karla:ital,wght@0,200..800;1,200..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="stylesheet" href="index2.css">
+    </head>
+    <body>
+        <header>
+            <a>
+                <img src="images/INSURE.svg" alt="logo">
+            </a>
+            <nav class="navbar">
+                <a href="/">How we work</a>
+                <a href="/">Blog</a>
+                <a href="/" class="link_btn">View Plans</a>
+            </nav>
+        </header>
+        <main>
+            <section class="container">
+                <!--Left Hand-->
+                <div class="left_hand">
+                <span></span>
+                <h1>Humanizing your insurance</h1>
+                <p>Get your life insurance coverage easier and faster. We blend our expertise and technology to help you find the plan that’s right for you. Ensure you and your loved ones are protected.</p>
+                <a href="/" class="link_btn">View Plans</a>
+             </div>
+                <!--Right Hand-->
+                <div class="right_hand">
+                    <img src="images/family.png" alt="Insurance adverts image for family">
+                </div>
+            </section>
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
